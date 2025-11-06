@@ -6,8 +6,7 @@ A simple front-end project that replicates the YouTube layout using only HTML an
 
 - Video grid layout
 - Channel and video info display
-- Responsive design (optional)
-- Hover effects on videos (optional)
+- Responsive design 
 
 ## How to Run
 
