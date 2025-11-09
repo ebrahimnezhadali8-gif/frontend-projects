@@ -34,4 +34,4 @@ The purpose of this project is to practice **frontend design**, page structuring
 ## How to Run
 
 1. Clone the repository or download the project.
-2. Open the `index.html` file in your browser.
+2. Open the `home.html` file in your browser.
