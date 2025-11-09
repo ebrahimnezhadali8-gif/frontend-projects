@@ -18,9 +18,9 @@ The purpose of this project is to practice **frontend design**, page structuring
 ---
 
 ## Technologies Used  
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (Vanilla)**  
+- HTML5  
+- CSS3  
+- JavaScript
 
 ---
 
