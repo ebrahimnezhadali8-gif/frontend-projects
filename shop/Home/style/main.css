@@ -189,10 +189,6 @@
     font-size: 1.5em;
 }
 
-.box-offer .body .left .counter-down span{
-
-}
-
 .box-offer .body .left .remainig-time{
     color: #777;
     font-size: 0.8em;
@@ -218,6 +214,14 @@
   .banner{
       display:none;
   }
+  .box-offer .body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .box-offer .body .right .image-container img{
+    width: 60%;
+  }
 }
 
 @media (min-width:601px) and (max-width:750px){
@@ -233,6 +237,14 @@
   }
   .banner{
       display:none;
+  }
+  .box-offer .body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .box-offer .body .right .image-container img{
+    width: 60%;
   }
 }
 
